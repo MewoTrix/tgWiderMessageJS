@@ -11,3 +11,4 @@
     一行读完有助于保存脑力和提高句子的理解力。
     
 ![screenshot](screenshot.png)
+![screenshot](screenshot2.png)
